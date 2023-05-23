@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajjys
-- 👀 I’m interested in `Everything Java`
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in `Java`, `Javascript`, `C/C++`
+- 🌱 I’m currently learning `node.js`
 - 💞️ I’m looking to collaborate on any project that involves web apps, AI and Music
 - 📫 How to reach me rajjysrachid@gmail.com
 
