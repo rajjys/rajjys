@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rajjys
-- 👀 I’m interested in `Java`, `Javascript`, `C/C++`
-- 🌱 I’m currently learning `node.js`
-- 💞️ I’m looking to collaborate on any project that involves web apps, AI and Music
+- 👋 Hi, I’m @rajjys Rachid
+- 👀 I’m interested in `Java`, `Javascript`, `C/C++`, `Node.js`, `AI` and `UI/UX` development
+- 🌱 I’m currently learning `System Design`
+- 💞️ I’m looking to collaborate on any project that involves web apps, AI, Sport and Music
 - 📫 How to reach me rajjysrachid@gmail.com
 
 <!---
